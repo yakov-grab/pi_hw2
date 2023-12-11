@@ -1,5 +1,7 @@
 # Sentiment Analysis Web App
 
+https://2cuiacfuyrkl6xvlg9xbob.streamlit.app/
+
 This is a simple web application built with Streamlit that uses the transformers library to analyze the sentiment of input text using a pre-trained sentiment analysis model (blanchefort/rubert-base-cased-sentiment).
 
 ![example](example.png)
