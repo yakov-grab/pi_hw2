@@ -19,6 +19,3 @@ def main():
             st.write(f"Confidence: {result['score']:.4f}")
         else:
             st.warning("Please enter text for analysis.")
-
-if __name__ == "__main__":
-    main()
